@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "205281124067",
+    "project_id": "forceupdate-6e05c",
+    "storage_bucket": "forceupdate-6e05c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205281124067:android:54f2ab654567f098be6fd6",
+        "android_client_info": {
+          "package_name": "hr.cutva.forceupdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy-A7h9e8zRpJhi2waUlDaaxLj9BwjiGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
